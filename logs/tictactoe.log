@@ -1,0 +1,1 @@
+2025-03-13 11:40:03,613 - utils.helpers - ERROR - Project setup failed: 'Logger' object has no attribute 'log_training_metrics'
